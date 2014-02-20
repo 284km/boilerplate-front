@@ -1,10 +1,21 @@
 {
   "name": "boilerplate",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "authors": [
     "284km <k.furuhashi10@gmail.com>"
   ],
   "license": "MIT",
+  "dependencies": {
+    "requirejs": "latest",
+    "jquery": "latest",
+    "backbone-amd": "latest",
+    "underscore-amd": "latest"
+  },
+  "devDependencies": {
+    "mocha": "latest",
+    "expect": "latest",
+    "sinon": "http://sinonjs.org/releases/sinon-1.7.1.js"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
