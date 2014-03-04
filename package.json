@@ -1,0 +1,17 @@
+{
+  "name": "boilerplate",
+  "version": "0.0.0",
+  "description": "my boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Kazuma Furuhashi",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-haml": "*",
+    "grunt-contrib-coffee": "*"
+  }
+}

@@ -1,21 +1,27 @@
+
+log/
+tmp/pids/
+tmp/sockets/
+vendor/bundle
+
 # .sass-cache/
 public/js/vendor/
 # test/js/
 
 ### /Users/kazuma/.gitignore-boilerplates/ruby.gitignore
 
-# *.gem
-# *.rbc
-# .bundle
-# .config
-# coverage
-# InstalledFiles
-# lib/bundler/man
-# pkg
-# rdoc
-# spec/reports
-# test/tmp
-# test/version_tmp
+*.gem
+*.rbc
+.bundle
+.config
+coverage
+InstalledFiles
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
 # tmp
 
 # YARD artifacts
